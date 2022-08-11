@@ -1,0 +1,3 @@
+# 修改auth变量为已登录的sessdata, 并复制该文件为.config
+
+export auth="1234abcd,1234567890,12345*78"
